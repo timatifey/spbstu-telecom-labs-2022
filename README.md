@@ -4,7 +4,7 @@ Laboratory exercises of Telecommunication Systems course.
 
 Current progress:
 - [X] [Chapter 1: Sounds and Signals](chap01/chap01.ipynb)
-- [ ] Chapter 2: Harmonics
+- [X] [Chapter 2: Harmonics](chap02/chap02.ipynb)
 - [ ] Chapter 3: Non-periodic signals
 - [ ] Chapter 4: Noise
 - [ ] Chapter 5: Autocorrelation
