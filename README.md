@@ -9,7 +9,7 @@
 - [X] [Chapter 6: Discrete Cosine Transform](chap06/chap06.ipynb)
 - [X] [Chapter 7: Discrete Fourier Transform](chap07/chap07.ipynb)
 - [X] [Chapter 8: Filtering and Convolution](chap08/chap08.ipynb)
-- [ ] Chapter 9: Differentiation and Integration
+- [X] [Chapter 9: Differentiation and Integration](chap09/chap09.ipynb)
 - [ ] Chapter 10: Signals and Systems
 - [ ] Chapter 11: Modulation and sampling
 - [ ] Chapter 12
