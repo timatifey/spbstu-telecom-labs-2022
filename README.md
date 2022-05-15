@@ -5,7 +5,7 @@
 - [X] [Chapter 2: Harmonics](chap02/chap02.ipynb)
 - [X] [Chapter 3: Non-periodic signals](chap03/chap03.ipynb)
 - [X] [Chapter 4: Noise](chap04/chap04.ipynb)
-- [ ] Chapter 5: Autocorrelation
+- [X] [Chapter 5: Autocorrelation](chap05/chap05.ipynb)
 - [ ] Chapter 6: Discrete Cosine Transform
 - [ ] Chapter 7: Discrete Fourier Transform
 - [ ] Chapter 8: Filtering and Convolution
