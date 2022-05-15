@@ -8,7 +8,7 @@
 - [X] [Chapter 5: Autocorrelation](chap05/chap05.ipynb)
 - [X] [Chapter 6: Discrete Cosine Transform](chap06/chap06.ipynb)
 - [X] [Chapter 7: Discrete Fourier Transform](chap07/chap07.ipynb)
-- [ ] Chapter 8: Filtering and Convolution
+- [X] [Chapter 8: Filtering and Convolution](chap08/chap08.ipynb)
 - [ ] Chapter 9: Differentiation and Integration
 - [ ] Chapter 10: Signals and Systems
 - [ ] Chapter 11: Modulation and sampling
