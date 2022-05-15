@@ -11,5 +11,5 @@
 - [X] [Chapter 8: Filtering and Convolution](chap08/chap08.ipynb)
 - [X] [Chapter 9: Differentiation and Integration](chap09/chap09.ipynb)
 - [X] [Chapter 10: Signals and Systems](chap10/chap10.ipynb)
-- [ ] Chapter 11: Modulation and sampling
+- [X] [Chapter 11: Modulation and sampling](chap11/chap11.ipynb)
 - [ ] Chapter 12
